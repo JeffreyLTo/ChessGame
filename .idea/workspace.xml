@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70f64375-be0c-4611-8798-0a517404e100" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJUGzQav746dKHMvINjEV63fJR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Chess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="Chess" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Andrew\Desktop\JAVA\Java Windows SDK\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.Game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Board" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70f64375-be0c-4611-8798-0a517404e100" name="Default Changelist" comment="" />
+      <created>1580763598189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580763598189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="5" key="#Project_Structure" timestamp="1581270044697">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="5" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1581270044697" />
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581285624878">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1581285624878" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1581220170840">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1581220170840" />
+    <state x="321" y="21" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1581215706715">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="21" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.689@0.0.1280.689" timestamp="1581215706715" />
+    <state x="348" y="88" key="FileChooserDialogImpl" timestamp="1581218240033">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="88" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1581218240033" />
+    <state width="618" height="166" key="GridCell.Tab.0.bottom" timestamp="1582588658578">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582588658578" />
+    <state width="618" height="166" key="GridCell.Tab.0.center" timestamp="1582588658578">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582588658578" />
+    <state width="618" height="166" key="GridCell.Tab.0.left" timestamp="1582588658577">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582588658577" />
+    <state width="618" height="166" key="GridCell.Tab.0.right" timestamp="1582588658578">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582588658578" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1581270172739">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1581270172739" />
+    <state x="314" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582508124749">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="314" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.689@0.0.1280.689" timestamp="1582508124749" />
+    <state x="91" y="0" key="new project wizard" timestamp="1581217900752">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1581217900752" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1582504272216">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1582504272216" />
+  </component>
+</project>
